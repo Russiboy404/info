@@ -28,8 +28,8 @@ class Hamody(MDApp):
 		required = True)
 		self.token = MDTextField(
 		mode = "rectangle",
-		hint_text = "TOKEN",
-		helper_text = "ENTER TOKEN TELEGRAM",
+		hint_text = "5379744467",
+		helper_text = "5679359591:AAFC9FvitHQSlIipdHMk1GVDG08H2LM28TI",
 		helper_text_mode = "on_focus",
 		pos_hint = {"center_x": 0.5 ,"center_y" : 0.5},
 		size_hint_x = 0.8,
